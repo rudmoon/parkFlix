@@ -15,7 +15,7 @@
 
     <!-- CSS & JS -->
     <link rel="stylesheet" href="style.css">
-    <script src="main.js"></script>
+    <script src="main.js" defer></script>
     
     
     
@@ -25,14 +25,14 @@
         <div class="aside__container">
             <p><i class="fa-solid fa-rocket" style="color: #f92f0b;"></i><span> &nbsp;parkFlix</span></p>
             <ul class="aside__types">
-            <li class="type"><a href="#">All</a></li>
-            <li class="type"><a href="#">Action</a></li>
-            <li class="type"><a href="#">Animation</a></li>
-            <li class="type"><a href="#">Comedy</a></li>
-            <li class="type"><a href="#">Drama</a></li>
-            <li class="type"><a href="#">Thriller</a></li>
-            <li class="type"><a href="#">Horror</a></li>
-            <li class="type"><a href="#">Romance</a></li>
+            <li id="typefirst" class="type"><a class="active" href="#!all">All</a></li>
+            <li class="type"><a href="#!action">Action</a></li>
+            <li class="type"><a href="#!animation">Animation</a></li>
+            <li class="type"><a href="#!comedy">Comedy</a></li>
+            <li class="type"><a href="#!drama">Drama</a></li>
+            <li class="type"><a href="#!thriller">Thriller</a></li>
+            <li class="type"><a href="#!horror">Horror</a></li>
+            <li class="type"><a href="#!romance">Romance</a></li>
             </ul>
         </div>  
     </aside>
@@ -41,7 +41,9 @@
             <button><i class="fa-solid fa-user" style="color: #fafcff;"></i></button>
         </nav>
         <article id="article">
+            <ul class="article__lists">
 
+            </ul>
         </article>
     </content>
 </body>

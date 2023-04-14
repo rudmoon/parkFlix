@@ -1,0 +1,102 @@
+[
+    {
+    "name" : "겟아웃",
+    "type" : "action"
+    },
+    {
+    "name" : "겨울왕국",
+    "type" : "animation"
+    },
+    {
+    "name" : "극한직업",
+    "type" : "comedy"
+    },
+    {
+    "name" : "날씨의아이",
+    "type" : "animation"
+    },
+    {
+    "name" : "말할수없는비밀",
+    "type" : "romance"
+    },
+    {
+    "name" : "미비포유",
+    "type" : "romance"
+    },
+    {
+    "name" : "미션임파서블",
+    "type" : "action"
+    },
+    {
+    "name" : "미스터빈",
+    "type" : "comedy"
+    },
+
+
+    {
+    "name" : "뷰티인사이드",
+    "type" : "romance"
+    },
+    {
+    "name" : "숨바꼭질",
+    "type" : "horror"
+    },
+    {
+    "name" : "스파이",
+    "type" : "comedy"
+    },
+    {
+    "name" : "암수살인",
+    "type" : "thriller"
+    },
+    {
+    "name" : "어스",
+    "type" : "horror"
+    },
+    {
+    "name" : "워낭소리",
+    "type" : "drama"
+    },
+    {
+    "name" : "원티드",
+    "type" : "thriller"
+    },
+    {
+    "name" : "이프온리",
+    "type" : "romance"
+    },
+
+    {
+    "name" : "장난스런키스",
+    "type" : "romance"
+    },
+    {
+    "name" : "주토피아",
+    "type" : "animation"
+    },
+    {
+    "name" : "컨저링",
+    "type" : "horror"
+    },
+    {
+    "name" : "클로젯",
+    "type" : "thriller"
+    },
+    {
+    "name" : "킹스맨",
+    "type" : "action"
+    },
+    {
+    "name" : "타이타닉",
+    "type" : "romance"
+    },
+    {
+    "name" : "토이스토리4",
+    "type" : "animation"
+    },
+    {
+    "name" : "호라이즌라인",
+    "type" : "thriller"
+    }
+
+]
