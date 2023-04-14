@@ -47,6 +47,3 @@ window.onload = function() {
     allButton.click();
 }
 
-
-
-

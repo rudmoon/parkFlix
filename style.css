@@ -126,6 +126,10 @@ body {
     margin : var(--font16);
     background: center/cover no-repeat;
     display: none;
+    transition: transform 0.2s ease-in-out;
+}
+.article__lists li:hover {
+    transform: scale(1.1);
 }
 .article__lists li.show {
     display: flex;
