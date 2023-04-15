@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=parkFlix%20&fontSize=90)
 
-#### Visit the site : https://rudmoon.github.io/parkFlix/ (반응형XX)
+#### Visit the site : https://rudmoon.github.io/parkFlix/ (반응형 OK)
 
 #### Original Site : None
 
@@ -25,3 +25,4 @@
 * json placehorder대신, json DB를 직접 만들어서 사용
 * a의 href와 reponse.json()의 요소가 일치해야만 보이도록 설계
 * all요소는 전부보이게, window.onload시 자동클릭 설계
+* 모달창 설계
