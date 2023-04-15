@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=parkFlix%20&fontSize=90)
 
-#### Visit the site : https://rudmoon.github.io/parkFlix/
+#### Visit the site : https://rudmoon.github.io/parkFlix/ (반응형XX)
 
 #### Original Site : None
 
