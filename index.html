@@ -11,7 +11,6 @@
     <title>parkFlix</title>
     <!-- Font-awsome -->
     <script src="https://kit.fontawesome.com/4a51d562a2.js" crossorigin="anonymous"></script>
-    <link rel="icon" href="https://example.com/favicon.ico">
 
     <!-- CSS & JS -->
     <link rel="stylesheet" href="style.css">
@@ -25,20 +24,24 @@
         <div class="aside__container">
             <p><i class="fa-solid fa-rocket" style="color: #f92f0b;"></i><span> &nbsp;parkFlix</span></p>
             <ul class="aside__types">
-            <li id="typefirst" class="type"><a class="active" href="#!all">All</a></li>
-            <li class="type"><a href="#!action">Action</a></li>
-            <li class="type"><a href="#!animation">Animation</a></li>
-            <li class="type"><a href="#!comedy">Comedy</a></li>
-            <li class="type"><a href="#!drama">Drama</a></li>
-            <li class="type"><a href="#!thriller">Thriller</a></li>
-            <li class="type"><a href="#!horror">Horror</a></li>
-            <li class="type"><a href="#!romance">Romance</a></li>
+                <li id="typefirst" class="type"><a class="active" href="#!all">All</a></li>
+                <li class="type"><a href="#!action">Action</a></li>
+                <li class="type"><a href="#!animation">Animation</a></li>
+                <li class="type"><a href="#!comedy">Comedy</a></li>
+                <li class="type"><a href="#!drama">Drama</a></li>
+                <li class="type"><a href="#!thriller">Thriller</a></li>
+                <li class="type"><a href="#!horror">Horror</a></li>
+                <li class="type"><a href="#!romance">Romance</a></li>
             </ul>
         </div>  
     </aside>
     <content id="content">
         <nav id="nav">
-            <button><i class="fa-solid fa-user" style="color: #fafcff;"></i></button>
+            <p><i class="fa-solid fa-rocket" style="color: #f92f0b;"></i><span> &nbsp;parkFlix</span></p>
+            <div class="nav__buttons">
+                <button><i class="fa-solid fa-user" style="color: #fafcff;"></i></button>
+                <button><i class="fa-solid fa-bars" style="color: #fafcff;"></i></button>
+            </div>
         </nav>
         <article id="article">
             <ul class="article__lists">
@@ -46,5 +49,20 @@
             </ul>
         </article>
     </content>
+    <div id="modal">
+        <div class="modalInner">
+            <button class="modalInner__X">X</button>
+            <ul class="modalInner__lists">
+                <li class="type"><a href="#!all">All</a></li>
+                <li class="type"><a href="#!action">Action</a></li>
+                <li class="type"><a href="#!animation">Animation</a></li>
+                <li class="type"><a href="#!comedy">Comedy</a></li>
+                <li class="type"><a href="#!drama">Drama</a></li>
+                <li class="type"><a href="#!thriller">Thriller</a></li>
+                <li class="type"><a href="#!horror">Horror</a></li>
+                <li class="type"><a href="#!romance">Romance</a></li>
+            </ul>
+        </div>
+    </div>
 </body>
 </html>
